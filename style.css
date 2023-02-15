@@ -1,0 +1,22 @@
+.container {
+  width: 800px;
+}
+.site-content {
+  width: 80%;
+  height: 200px;
+  background-color: aquamarine;
+  float: left;
+}
+.site-img {
+  width: 20%;
+  height: 200px;
+  background-color: aqua;
+  float: left;
+}
+.profile {
+  width: 50px;
+  float: left;
+}
+.name {
+  float: left;
+}
